@@ -34,11 +34,11 @@ Membangun sistem API tiket kereta yang mendukung:
 
 ### Kebutuhan Teknis
 
-- **Backend**: [![Golang](https://skillicons.dev/icons?i=golang)](https://skillicons.dev)
-- **Database**: [![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) 
-- **Caching**: [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) 
-- **Hosting**: Fly.io
-- **Notification**: Twilio
+- **Backend**: ``Golang``
+- **Database**: ``PostgreSQL`` (untuk penyimpanan data utama)
+- **Caching**: ``Redis`` (untuk caching dan antrean notifikasi)
+- **Hosting**: ``Fly.io``
+- **Notification**: ``Twilio``
 
 ---
 
