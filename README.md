@@ -178,7 +178,7 @@ Membangun sistem API tiket kereta yang mendukung:
 3. **Pembayaran Tiket**:
    - User memesan tiket dan melakukan pembayaran.
    - Pembayaran dilakukan melalui API pembayaran (misalnya Stripe).
-   - Jika pembayaran berhasil, status tiket diperbarui menjadi "paid".
+   - Jika pembayaran berhasil, status tiket diperbarui menjadi "completed".
    - Jika pembayaran gagal, status tiket tetap "pending" atau "failed".
 
 ---
